@@ -275,3 +275,27 @@ Binding(CTRL+SHIFT+ARROW_RIGHT,
 
 !ENTRY org.eclipse.jdt.core 4 969 2013-12-28 19:07:02.966
 !MESSAGE form2(String) [in SampleController [in [Working copy] SampleController.java [in jp.springbook.springsample [in src/main/java [in SpringSample]]]]] does not exist
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:43:45.117
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:43:45.124
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:43:45.954
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:43:45.955
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:47:50.175
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:47:50.177
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:47:57.348
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:47:57.350
+!MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
