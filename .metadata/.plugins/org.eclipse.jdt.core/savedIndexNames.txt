@@ -21,7 +21,6 @@ INDEX VERSION 1.126+/Users/mito/Documents/work/develop/git-repo/samayaaan/Spring
 1114404514.index
 2837995496.index
 1671263487.index
-836461248.index
 1761074858.index
 2767286907.index
 3013863722.index

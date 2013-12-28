@@ -299,3 +299,24 @@ Binding(CTRL+SHIFT+ARROW_RIGHT,
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-28 19:47:57.350
 !MESSAGE File /SpringRooSample/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.195
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.196
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.199
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.200
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.201
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.disable.grammar.constraints
+
+!ENTRY org.eclipse.ui 4 4 2013-12-29 01:07:24.201
+!MESSAGE Could not retrieve EHandlerService or ICommandService from context evaluation context fororg.eclipse.wst.xml.ui.reload.dependencies
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2013-12-29 01:08:32.632
+!MESSAGE Port 8080 required by VMware vFabric tc Server Developer Edition v2.9 is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
