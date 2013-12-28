@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:jsp="http://java.sun.com/JSP/Page" xmlns:page="urn:jsptagdir:/WEB-INF/tags/form" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <page:show id="ps_jp_springbook_springroosample_mydata_SampleData" object="${sampledata}" path="/sampledatas" z="Jo/hhZU3cuVAgOmuxOUWilBjnSg=">
+        <field:display field="name" id="s_jp_springbook_springroosample_mydata_SampleData_name" object="${sampledata}" z="acu1hc7S9C/M5SG6B4aPibtOqMs="/>
+        <field:display field="mail" id="s_jp_springbook_springroosample_mydata_SampleData_mail" object="${sampledata}" z="6ibluOODaxWHdlguiAFhU/P9rzE="/>
+        <field:display field="age" id="s_jp_springbook_springroosample_mydata_SampleData_age" object="${sampledata}" z="DlI+2culTGRW+JLNhCb893/o6ks="/>
+        <field:display field="memo" id="s_jp_springbook_springroosample_mydata_SampleData_memo" object="${sampledata}" z="pDmWTQ5MBl2ZJ6GSvk7itZGHEDI="/>
+    </page:show>
+</div>

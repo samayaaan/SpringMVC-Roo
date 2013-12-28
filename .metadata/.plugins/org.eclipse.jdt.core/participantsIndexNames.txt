@@ -7,5 +7,7 @@ INDEX VERSION 1.126
 /SpringSample/src/main/java
 /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/43590143.index
 /SpringRooSample/src/main/resources
+/Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/918538129.index
+/SpringRooSample/src/main/java
 /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/117856658.index
 /SpringRooSample/src/main/resources

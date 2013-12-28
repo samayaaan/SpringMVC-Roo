@@ -5,3 +5,12 @@ project --topLevelPackage jp.springbook.springroosample --projectName SpringRooS
 web mvc setup
 persistence setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY
 web mvc controller --class ~.HeloController --preferredMapping /helo
+entity jpa --class ~.mydata.SampleData --testAutomatically
+field string --fieldName name --notNull
+field string --fieldName mail --notNull
+field number --fieldName age --type java.lang.Integer
+field string --fieldName memo
+web mvc all --package jp.springbook.springroosample.mydata
+finder list --class jp.springbook.springroosample.mydata.SampleData
+finder add findSampleDatasByNameLike
+web mvc finder all

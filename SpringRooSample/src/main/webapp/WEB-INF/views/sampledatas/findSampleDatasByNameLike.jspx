@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<div xmlns:field="urn:jsptagdir:/WEB-INF/tags/form/fields" xmlns:form="urn:jsptagdir:/WEB-INF/tags/form" xmlns:jsp="http://java.sun.com/JSP/Page" version="2.0">
+    <jsp:directive.page contentType="text/html;charset=UTF-8"/>
+    <jsp:output omit-xml-declaration="yes"/>
+    <form:find finderName="ByNameLike" id="ff_jp_springbook_springroosample_mydata_SampleData" path="/sampledatas" z="c9E1ibUhtX8z4OFKGJSCj7zJS4M=">
+        <field:input disableFormBinding="true" field="name" id="f_jp_springbook_springroosample_mydata_SampleData_name" required="true" z="FJ8+q8AmGZ+Vx8hl8I834dqztgY="/>
+    </form:find>
+</div>
