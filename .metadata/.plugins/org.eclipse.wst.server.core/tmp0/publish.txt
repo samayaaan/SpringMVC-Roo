@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Dec 28 17:31:37 JST 2013
+org.eclipse.jst.jee.server\:SpringSample=/Users/mito/develop/springsource/vfabric-tc-server-developer-2.9.3.RELEASE/base-instance/wtpwebapps/SpringSample
+org.eclipse.jst.jee.server\:/binary\:/Users/mito/.m2/repository/org/springframework/spring-web/3.2.3.RELEASE/spring-web-3.2.3.RELEASE.jar=/Users/mito/develop/springsource/vfabric-tc-server-developer-2.9.3.RELEASE/base-instance/wtpwebapps/SpringSample/WEB-INF/lib/spring-web-3.2.3.RELEASE.jar
