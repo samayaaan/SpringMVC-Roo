@@ -1,0 +1,7 @@
+package jp.springbook.springsample;
+
+public class SampleFormModel {
+
+	private String input1;
+	
+}
