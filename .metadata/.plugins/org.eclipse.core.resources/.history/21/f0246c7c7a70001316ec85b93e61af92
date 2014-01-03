@@ -1,0 +1,25 @@
+package jp.springbook.springsample.data.user;
+
+@RooJavaBean
+@RooToString
+@RooJpaActiveRecord(finders = { "findSampleDatasByNameLike" })
+public class SampleData {
+
+    /**
+     */
+    @NotNull
+    private String name;
+
+    /**
+     */
+    @NotNull
+    private String mail;
+
+    /**
+     */
+    private Integer age;
+
+    /**
+     */
+    private String memo;
+}

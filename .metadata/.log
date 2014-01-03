@@ -320,3 +320,140 @@ Binding(CTRL+SHIFT+ARROW_RIGHT,
 
 !ENTRY org.eclipse.jst.server.tomcat.core 4 0 2013-12-29 01:08:32.632
 !MESSAGE Port 8080 required by VMware vFabric tc Server Developer Edition v2.9 is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+!SESSION 2013-12-29 18:53:58.415 -----------------------------------------------
+eclipse.buildId=3.4.0.201310051614-RELEASE-e43
+java.version=1.6.0_65
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.springsource.sts.ide -keyring /Users/mito/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springsource.sts.ide -keyring /Users/mito/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.resources 2 10035 2013-12-29 18:54:07.785
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-12-29 18:54:32.961
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-12-29 18:54:32.961
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2013-12-29 18:54:32.961
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-12-29 18:54:32.961
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2013-12-29 18:54:32.961
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2013-12-29 18:54:37.333
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.springframework.ide.eclipse.roo.core 4 0 2013-12-29 19:01:17.956
+!MESSAGE Failed to start the Felix framework
+!STACK 0
+org.osgi.framework.BundleException: Error creating bundle cache.
+	at org.apache.felix.framework.Felix.init(Felix.java:634)
+	at org.springframework.roo.shell.eclipse.Main.start(Main.java:251)
+	at org.springframework.roo.shell.eclipse.Bootstrap.start(Bootstrap.java:164)
+	at org.springframework.ide.eclipse.roo.ui.internal.RooShellTab$8.run(RooShellTab.java:431)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.Exception: Unable to lock bundle cache: java.nio.channels.OverlappingFileLockException
+	at org.apache.felix.framework.cache.BundleCache.<init>(BundleCache.java:176)
+	at org.apache.felix.framework.Felix.init(Felix.java:629)
+	... 4 more
+Root exception:
+java.lang.Exception: Unable to lock bundle cache: java.nio.channels.OverlappingFileLockException
+	at org.apache.felix.framework.cache.BundleCache.<init>(BundleCache.java:176)
+	at org.apache.felix.framework.Felix.init(Felix.java:629)
+	at org.springframework.roo.shell.eclipse.Main.start(Main.java:251)
+	at org.springframework.roo.shell.eclipse.Bootstrap.start(Bootstrap.java:164)
+	at org.springframework.ide.eclipse.roo.ui.internal.RooShellTab$8.run(RooShellTab.java:431)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:01:18.797
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:01:18.799
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:01:19.550
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:01:19.551
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:04:07.861
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:04:07.862
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.springframework.ide.eclipse.roo.core 4 0 2013-12-29 19:25:25.395
+!MESSAGE Failed to start the Felix framework
+!STACK 0
+org.osgi.framework.BundleException: Error creating bundle cache.
+	at org.apache.felix.framework.Felix.init(Felix.java:634)
+	at org.springframework.roo.shell.eclipse.Main.start(Main.java:251)
+	at org.springframework.roo.shell.eclipse.Bootstrap.start(Bootstrap.java:164)
+	at org.springframework.ide.eclipse.roo.ui.internal.RooShellTab$8.run(RooShellTab.java:431)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.Exception: Unable to lock bundle cache: java.nio.channels.OverlappingFileLockException
+	at org.apache.felix.framework.cache.BundleCache.<init>(BundleCache.java:176)
+	at org.apache.felix.framework.Felix.init(Felix.java:629)
+	... 4 more
+Root exception:
+java.lang.Exception: Unable to lock bundle cache: java.nio.channels.OverlappingFileLockException
+	at org.apache.felix.framework.cache.BundleCache.<init>(BundleCache.java:176)
+	at org.apache.felix.framework.Felix.init(Felix.java:629)
+	at org.springframework.roo.shell.eclipse.Main.start(Main.java:251)
+	at org.springframework.roo.shell.eclipse.Bootstrap.start(Bootstrap.java:164)
+	at org.springframework.ide.eclipse.roo.ui.internal.RooShellTab$8.run(RooShellTab.java:431)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:25:25.542
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:25:25.545
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:25:26.058
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:25:26.060
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:39:55.385
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:39:55.389
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2013-12-29 19:39:55.570
+!MESSAGE Project facet grails.app has not been defined. It is used in plugin com.vmware.vfabric.ide.eclipse.tcserver.core.
+
+!ENTRY org.eclipse.jdt.core 4 1006 2013-12-29 19:39:56.313
+!MESSAGE src/main/webapp/WEB-INF/classes [in SpringRooPjt] is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:39:57.499
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2013-12-29 19:39:57.501
+!MESSAGE File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.719
+!MESSAGE ApplicationConversionServiceFactoryBean_Roo_ConversionService.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.721
+!MESSAGE SampleData_Roo_Configurable.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.722
+!MESSAGE SampleData_Roo_Finder.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.723
+!MESSAGE SampleData_Roo_JavaBean.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.724
+!MESSAGE SampleData_Roo_Jpa_ActiveRecord.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.725
+!MESSAGE SampleData_Roo_Jpa_Entity.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist
+
+!ENTRY org.eclipse.jdt.core 4 969 2013-12-29 20:15:12.727
+!MESSAGE SampleData_Roo_ToString.aj [in jp.springbook.springsample.data.user [in src/main/java [in SpringSample]]] does not exist

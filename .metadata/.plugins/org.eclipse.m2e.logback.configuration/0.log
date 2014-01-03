@@ -1686,3 +1686,178 @@
 2013-12-29 17:19:08,876 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
 2013-12-29 17:19:08,878 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2013-12-29 17:19:08,878 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2013-12-29 18:54:21,763 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.springbook.springroosample:SpringRooSample:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/pom.xml.
+2013-12-29 18:54:24,356 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples.service.service:SpringSample:0.0.1-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/pom.xml.
+2013-12-29 18:54:43,379 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 18:54:43,389 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2013-12-29 18:54:43,444 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 18:54:43,445 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2013-12-29 18:54:47,071 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 18:54:47,073 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 18:54:47,090 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 18:54:47,091 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:01:18,149 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.sample.springroopjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:01:18,775 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:01:18,776 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:01:18,793 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:01:18,796 [Worker-15] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:01:18,798 [Worker-15] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:01:19,027 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-12-29 19:01:19,195 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.sample.springroopjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:01:19,548 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:01:19,549 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:01:19,549 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:01:19,550 [Worker-15] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:01:19,551 [Worker-15] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:01:19,706 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-12-29 19:01:19,725 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.sample.springroopjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:01:19,904 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:01:19,905 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:01:19,911 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:01:19,911 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:01:20,946 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:01:20,950 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:01:20,952 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:01:20,952 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:04:07,546 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-12-29 19:04:07,645 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.sample.springroopjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:04:07,859 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:04:07,860 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:04:07,860 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:04:07,861 [Worker-7] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:04:07,862 [Worker-7] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:04:07,991 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-12-29 19:04:08,263 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:04:08,264 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:04:08,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:04:08,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:09:53,208 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt
+2013-12-29 19:09:53,208 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-12-29 19:09:58,428 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:09:58,428 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:09:58,430 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:09:58,431 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:25:25,205 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:25:25,534 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:25:25,534 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:25:25,541 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:25:25,542 [Worker-29] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:25:25,544 [Worker-29] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:25:25,688 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-12-29 19:25:25,777 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:25:26,054 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:25:26,054 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:25:26,057 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:25:26,058 [Worker-29] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:25:26,059 [Worker-29] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:25:26,168 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-12-29 19:25:26,199 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:25:26,757 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:25:26,759 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:25:26,763 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:25:26,763 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:28:35,363 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt
+2013-12-29 19:28:35,363 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-12-29 19:28:40,414 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:28:40,414 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:28:40,416 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:28:40,417 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:31:35,350 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRooSample
+2013-12-29 19:31:35,363 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringSample
+2013-12-29 19:31:35,594 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:35,595 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:31:35,598 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:35,598 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:31:37,875 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:37,876 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2013-12-29 19:31:37,893 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:37,894 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2013-12-29 19:31:38,539 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:38,540 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:31:38,544 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:38,544 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:31:53,239 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:53,241 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2013-12-29 19:31:53,243 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:31:53,243 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2013-12-29 19:37:52,967 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt
+2013-12-29 19:37:52,967 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2013-12-29 19:37:58,133 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:37:58,133 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:37:58,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:37:58,136 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:39:29,958 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:29,959 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:39:29,960 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:29,961 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2013-12-29 19:39:44,159 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:44,160 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:39:44,163 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:44,163 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:39:53,721 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:39:54,484 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:54,484 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-12-29 19:39:54,486 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:54,488 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:39:54,489 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRooPjt
+2013-12-29 19:39:54,490 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRooPjt
+2013-12-29 19:39:54,497 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:39:54,628 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-12-29 19:39:54,807 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:39:55,383 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:39:55,384 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:39:55,384 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:39:55,385 [Worker-46] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:39:55,389 [Worker-46] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:39:56,460 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRooPjt
+2013-12-29 19:39:56,481 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2013-12-29 19:39:56,526 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-12-29 19:39:56,792 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:39:57,498 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/main/java
+2013-12-29 19:39:57,498 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringRooPjt/src/main/resources
+2013-12-29 19:39:57,498 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRooPjt/src/test/java
+2013-12-29 19:39:57,499 [Worker-38] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:39:57,500 [Worker-38] WARN  o.m.i.e.a.AjdtProjectConfigurator - File /SpringRooPjt/src/main/aspect does not exist yet. Create it and re-run configuration.
+2013-12-29 19:39:57,675 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRooPjt
+2013-12-29 19:39:57,677 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2013-12-29 19:40:13,780 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: jp.springroo.pjt:SpringRooPjt:0.1.0.BUILD-SNAPSHOT @ /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/pom.xml.
+2013-12-29 19:40:14,325 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:40:14,326 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:40:14,329 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:40:14,330 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2013-12-29 19:49:07,826 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:07,828 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:07,830 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:07,830 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:49:22,000 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:22,001 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:22,003 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:22,004 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:49:28,238 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:28,239 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:28,240 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:28,240 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:49:38,076 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:38,077 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:38,092 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:38,093 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:49:47,303 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:47,304 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:47,307 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:47,307 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:49:56,014 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:56,015 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:49:56,017 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:49:56,017 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 19:51:57,734 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:51:57,734 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 19:51:57,736 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 19:51:57,736 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 20:15:13,434 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 20:15:13,435 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 20:15:13,438 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 20:15:13,438 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2013-12-29 20:15:18,981 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 20:15:18,982 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2013-12-29 20:15:18,984 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-12-29 20:15:18,984 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources

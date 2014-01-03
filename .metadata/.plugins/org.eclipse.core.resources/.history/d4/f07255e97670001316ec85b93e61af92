@@ -1,0 +1,6 @@
+package jp.springbook.springsample.data.user;
+
+public class Snippet {
+	web mvc setup
+}
+
