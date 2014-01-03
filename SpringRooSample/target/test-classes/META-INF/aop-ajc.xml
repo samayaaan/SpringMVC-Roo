@@ -1,0 +1,9 @@
+<aspectj>
+<aspects>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataDataOnDemand_Roo_Configurable"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataIntegrationTest_Roo_Configurable"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataDataOnDemand_Roo_DataOnDemand"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataIntegrationTest_Roo_IntegrationTest"/>
+</aspects>
+</aspectj>
+

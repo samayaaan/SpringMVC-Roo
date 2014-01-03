@@ -1,0 +1,14 @@
+<aspectj>
+<aspects>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_Jpa_Entity"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_Finder"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_Configurable"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_ToString"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataController_Roo_Controller"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_JavaBean"/>
+<aspect name="jp.springbook.springroosample.mydata.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleDataController_Roo_Controller_Finder"/>
+<aspect name="jp.springbook.springroosample.mydata.SampleData_Roo_Jpa_ActiveRecord"/>
+</aspects>
+</aspectj>
+
