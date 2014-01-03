@@ -1861,3 +1861,23 @@
 2013-12-29 20:15:18,982 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2013-12-29 20:15:18,984 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2013-12-29 20:15:18,984 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2014-01-03 18:46:25,693 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:25,707 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-01-03 18:46:25,718 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:25,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooPjt/src/test/resources
+2014-01-03 18:46:26,789 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:26,791 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2014-01-03 18:46:26,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:26,794 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2014-01-03 18:46:27,676 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:27,685 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-01-03 18:46:27,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:27,719 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringSample/src/test/resources
+2014-01-03 18:46:28,962 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:28,974 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-01-03 18:46:28,978 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:46:28,978 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
+2014-01-03 18:47:47,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:47:47,372 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-01-03 18:47:47,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-01-03 18:47:47,375 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mito/Documents/work/develop/git-repo/samayaaan/SpringMVC-Roo/SpringRooSample/src/test/resources
