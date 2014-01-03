@@ -12,7 +12,7 @@
     <h3>
       <spring:message arguments="${app_name}" code="welcome_titlepane"/>
     </h3>
-    <p>${message} test.aiueo..</p>
+    <p>${message} test.......</p>
     <form:form modelAttribute="formData" action="form" >
     	<form:input path="input" />
     	<input type="submit" />
